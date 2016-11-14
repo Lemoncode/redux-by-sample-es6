@@ -4,8 +4,7 @@ class UserProfileState {
   }
 }
 
-// eslint-disable-next-line no-unused-vars
-const userProfileReducer = (state = new UserProfileState(), action) => (
+const userProfileReducer = (state = new UserProfileState()) => (
   state
 );
 
