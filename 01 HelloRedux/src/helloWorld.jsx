@@ -1,4 +1,4 @@
-import * as React from 'react';
+import React from 'react';
 
 const HelloWorldComponent = props => (
   <h2>Hello Mr. {props.userName}!</h2>
